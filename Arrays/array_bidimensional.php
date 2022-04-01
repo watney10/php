@@ -1,5 +1,10 @@
 <?php 
 
+/**************************
+- ARRAYS BIDIMENSIONAIS -
+**************************/
+
+
 $carros[0][0] = "FORD";
 $carros[0][1] = "Ranger";
 $carros[0][2] = "Eco Sport";

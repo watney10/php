@@ -1,5 +1,9 @@
 <?php 
 
+/**************************
+- ARRAYS BIDIMENSIONAIS 2 -
+**************************/
+
 $usuarios = array();
 
 array_push($usuarios, array(
